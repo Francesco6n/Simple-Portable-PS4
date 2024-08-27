@@ -1,5 +1,14 @@
 # Simple-Portable-PS4
 
+## Introduction
+This mod only works with CUH-21xx PS4 (slim)
+It can work with CUH-20xx (slim) but with some modifications, never tested with CUH-22xx BUT it should work.
+
+It will not work with PS4 fat or PS4 Pro.
+
+You can buy everything on amazon except the display and hinges because i had thoose at home and they are from an acer aspire one D257.
+Check out the parts list for more details.
+
 ## The story
 I have always been attracted to the Souls games. I played Dark Souls 1, 2, 3, Bloodborne, and finally Elden Ring. 
 I spent more than 200 hours on Elden Ring and started to feel the frustration of being able to play it only at home on my PS5. 
