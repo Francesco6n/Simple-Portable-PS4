@@ -23,3 +23,14 @@ This way, I could have switched the power modes automatically, but all this will
 
 ## The goal
 Now I can play my Souls games anywhere.
+
+## Links
+
+### Presentation
+https://youtu.be/wdFjuvVqVi0?feature=shared
+
+### Hackaday article
+https://hackaday.com/2024/08/12/a-simple-portable-ps4-build/
+
+### Build guide:
+https://youtu.be/iYIeN_3FL7I
