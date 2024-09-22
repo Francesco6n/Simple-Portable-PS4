@@ -35,8 +35,11 @@ Now I can play my Souls games anywhere.
 
 ## Please note
 -If you like it, build it and enjoy your work
+
 -If you don't like it, don't build it, don't comment, don't try to destoy it
+
 -If you have suggestions, they will be accepted
+
 -This project was built with scrap parts around my house, keep that well in mind
 
 ## Links
