@@ -38,6 +38,9 @@ Now I can play my Souls games anywhere.
 ### Presentation
 https://youtu.be/wdFjuvVqVi0?feature=shared
 
+### Macho Nacho's presentation
+https://youtu.be/1YZIwi1bJcg?feature=shared
+
 ### Hackaday article
 https://hackaday.com/2024/08/12/a-simple-portable-ps4-build/
 
