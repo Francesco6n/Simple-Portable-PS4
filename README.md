@@ -14,7 +14,7 @@ I have always been attracted to the Souls games. I played Dark Souls 1, 2, 3, Bl
 I spent more than 200 hours on Elden Ring and started to feel the frustration of being able to play it only at home on my PS5. 
 So, I began looking at all the portable consoles available on the market. 
 I saw GPD, Rog Ally, MSI Claw, Legion GO, and so on.
-The only problem has always been the price, and my partner never allowed me to spend 700 euros on a portable console.
+The only problem has always been the price, and i don't want to spend 700 euros on a portable console.
 
 So, I decided to recycle some materials I had at home to create my console. 
 I had an old PS4 Slim and an Acer Aspire One D257 lying around unused. 
